@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HowMarketWorks
+title: How Market Works
 nav_order: 2
 ---
 

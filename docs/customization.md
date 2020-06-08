@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Risk Management
 nav_order: 6
 ---
 

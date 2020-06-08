@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: History
 nav_order: 7
 ---
 

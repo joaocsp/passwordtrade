@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Recomendaded books
 nav_order: 5
 ---
 
